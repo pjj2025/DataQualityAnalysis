@@ -1,0 +1,13 @@
+## 📂 Data Folder
+
+This project uses the **BC Major Projects Inventory (MPI) – Economic Points (Q1 2025)** dataset published by the Government of British Columbia.
+
+Because the official dataset is large and periodically updated, it is **not stored directly in this repository**.
+
+Instead, download it from the official source:
+
+**Dataset Source (BC Data Catalogue):**  
+https://catalogue.data.gov.bc.ca/dataset/major-projects-inventory-economic-points
+
+### 📁 `data/` folder structure
+
